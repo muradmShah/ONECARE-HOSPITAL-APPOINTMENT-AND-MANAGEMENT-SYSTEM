@@ -1,0 +1,6 @@
+{
+  "name": "RaahHealth — Peshawar Healthcare Discovery",
+  "description": "A calm, patient-first healthcare discovery platform for Peshawar, Pakistan connecting patients with doctors, prescribed medicines, and diagnostic lab tests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
